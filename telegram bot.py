@@ -172,4 +172,7 @@ end
 '''
 bot always start
 '''
+'''
+bot:https://t.me/NurislomSport_bot
+'''
 bot.polling()
